@@ -16,8 +16,6 @@ Adding notes to test merge with <new>
     it is really looking for is a PAT or 
     Personal Access Token.
 
-    ***
-    my PAT for this project:
-    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
+    PAT can be found under settings and then
+    Developer Settings in GitHub.com. 
 
-    
