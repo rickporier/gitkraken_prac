@@ -1,0 +1,8 @@
+Setting up Repository
+
+# Best practice I have seen thus far.
+
+1. Start on GitHub and make Repository
+2. Clobe to Local
+3. Link to GitKraken
+
