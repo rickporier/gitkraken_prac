@@ -6,3 +6,5 @@ Setting up Repository
 2. Clobe to Local
 3. Link to GitKraken
 
+Everything works better this way when compared to the
+previous way I did it in git_practice. 
