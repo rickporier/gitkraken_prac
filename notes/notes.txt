@@ -8,3 +8,6 @@ Setting up Repository
 
 Everything works better this way when compared to the
 previous way I did it in git_practice. 
+
+Adding notes to test merge with <new>
+
