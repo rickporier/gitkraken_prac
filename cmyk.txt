@@ -1,4 +1,4 @@
-Colors CMYK
+COLORS CMYK
 
 Cyan
 magenta
