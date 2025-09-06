@@ -1,0 +1,5 @@
+COLORS RGB
+
+Red
+Green
+Blue
