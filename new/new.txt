@@ -1,0 +1,10 @@
+=======
+ -NEW-
+=======
+
+# new file for the new branch
+# continuing to experiment with GitKracken
+
+Going to merge the <notes> branch into
+this branch and see how it looks in GK.
+
