@@ -11,3 +11,13 @@ previous way I did it in git_practice.
 
 Adding notes to test merge with <new>
 
+# VERY IMPORTANT
+    Terminal will ask for a password at times but what 
+    it is really looking for is a PAT or 
+    Personal Access Token.
+
+    ***
+    my PAT for this project:
+    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
+
+    
