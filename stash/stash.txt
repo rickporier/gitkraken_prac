@@ -1,0 +1,11 @@
+STASH
+=====
+
+#new branch and file for practicing "git stash"
+
+Not a mustache! =D
+
+Let's do more on the stash branch and do some commits.
+
+lets try again. I did the commmit fro GitKraken. 
+have to be careful when doing that. 
