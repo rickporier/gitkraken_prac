@@ -19,6 +19,11 @@ git checkout HEAD~1
         position of head. HEAD~2 would be two
         positions before and so on.
 
+git checkout HEAD <file name> or git checkout --<fileename>
+    # to delete unstaged or non-commmited changes to a file.
+    
+
+
 
 
 
