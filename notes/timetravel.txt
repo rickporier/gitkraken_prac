@@ -5,4 +5,20 @@ TIME TRAVELING
 
 # NOTES FOR UNDOING CHANGES
 
+git checkout <commit hash number>
+    # this will move the head to a former
+    commmit. Detached Head. Change branch to 
+    go back. 
+    *** You can then make a new branch at an old spot
+        and work from that point forward without the 
+        other commits that came after it. 
+
+git checkout HEAD~1
+    # This refers to commits that came before.
+        so HEAD~1 is one commint before the current 
+        position of head. HEAD~2 would be two
+        positions before and so on.
+
+
+
 
