@@ -13,6 +13,9 @@ git stash list
 
 git stash drop
 
+git stash clear
+
+
 ===================
 
 Not a mustache! =D
