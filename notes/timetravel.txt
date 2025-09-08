@@ -38,5 +38,17 @@ git reset --hard <commit-hash>
         will delete any changes that were made
         after that commit. 
 
+git revert <commit-hash>
+    # is simular to git reset, they bot undo changes,
+        but they accomplish it in different ways.
+            *** NOTES on DIFFERENCES
+                git RESET actually moves the branch pointer
+                backwards eliminating commits.
+
+                git REVERT instead creates a brand new
+                commit which reverses and undos abovecommit. 
+                Beacuse the result is a new commit,
+                you will be prompted to enter a commit 
+                messsage.
 
 
