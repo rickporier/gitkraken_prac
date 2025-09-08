@@ -28,7 +28,15 @@ git restore <file-name>
 git restore --staged <file-name>
     # unstage any files since previous commit. 
 
+git reset <commit-hash>
+    # resets repo to specified commit. 
+        This will remove the commit without 
+        deleting changes that were made. 
 
+git reset --hard <commit-hash>
+    # resets to the specified commit AND it 
+        will delete any changes that were made
+        after that commit. 
 
 
 
