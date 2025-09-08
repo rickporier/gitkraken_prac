@@ -21,7 +21,9 @@ git checkout HEAD~1
 
 git checkout HEAD <file name> or git checkout --<fileename>
     # to delete unstaged or non-commmited changes to a file.
-    
+
+git restore <file-name>
+    # simular to above. goes back to previous commit.
 
 
 
