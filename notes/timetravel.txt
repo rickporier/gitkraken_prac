@@ -25,6 +25,9 @@ git checkout HEAD <file name> or git checkout --<fileename>
 git restore <file-name>
     # simular to above. goes back to previous commit.
 
+git restore --staged <file-name>
+    # unstage any files since previous commit. 
+
 
 
 
